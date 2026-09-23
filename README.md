@@ -120,7 +120,7 @@ Investment 商品交易金額占比高。
 
 # Project Outcome
 
-透過 SQL 與 Power BI 完成：
+透過 SQL 完成：
 
 **Customer Data**
 
