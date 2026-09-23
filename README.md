@@ -1,7 +1,3 @@
-# CustomerInsight
-CRM Customer Segmentation &amp; Analysis using SQL
-# CustomerInsight
-
 ## CRM Customer Segmentation & Analysis
 
 CustomerInsight 是一個以 **SQL 與 CRM 分群概念**為核心的客戶分析專案，透過客戶基本資料、交易紀錄與行為資料建立標籤與客群，找出不同客群的特徵與交易差異，作為 CRM 客戶經營與行銷規劃的參考。
