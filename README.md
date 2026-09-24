@@ -81,9 +81,6 @@ WHERE customer.channel = 'App'
 
 <br>
 
-### **6. 數據視覺化（Power BI）**
-
-> *![Power BI 客戶分群分析圖](images/power-bi.png)* <br>
 
 **觀察分析：**
 
@@ -150,4 +147,4 @@ Investment 金額占比：約 84%
 ↓
 **Product / Marketing Action**
 
-透過 SQL 與 Power BI 將原始客戶資料轉換為可應用於 CRM 與產品規劃的分析結果。
+透過 SQL  將原始客戶資料轉換為可應用於 CRM 與產品規劃的分析結果。
